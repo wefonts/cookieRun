@@ -2,7 +2,7 @@
 쿠키런체
 
 <pre>
-  @font-face {
+@font-face {
     font-family: "cookieRun";
     font-weight: 400;
     font-style: normal;
